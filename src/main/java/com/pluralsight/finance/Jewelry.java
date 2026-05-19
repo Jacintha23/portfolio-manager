@@ -1,4 +1,4 @@
 package com.pluralsight.finance;
 
-public class Equipment {
+public class Jewelry {
 }

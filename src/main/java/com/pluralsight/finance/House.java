@@ -1,8 +1,4 @@
 package com.pluralsight.finance;
 
-public class Property
-{
-
-
-
+public class House {
 }
