@@ -1,6 +1,6 @@
 package com.pluralsight.finance;
 
-public class Gold
+public class Gold extends FixedAsset
 {
 
 
